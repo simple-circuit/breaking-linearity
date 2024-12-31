@@ -1,6 +1,7 @@
 # breaking_linearity
 Use Delta Sigma conversion to reduce ADC differential linearity errors.
 This is an educational project for the Raspberry Pi Pico.
+Read more about it in the Breaking ADC Limitations pdf file.
 
 ![](./10bitlinearity.png)
 Initial Linearity in mV.
